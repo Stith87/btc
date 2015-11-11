@@ -1,0 +1,14 @@
+{
+  "name": "Stith_BTC",
+  "version": "1.0.0",
+  "description": "Bitcoin Trading Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Stith",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
